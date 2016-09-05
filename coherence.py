@@ -29,7 +29,7 @@ def VisualizeTopics(phi, words, num_topics, label, viz_threshold=9e-3):
 
 def main():
 
-	resultspath = '/Users/mfaizmzaki/Desktop/result/'
+	resultspath = '/result/'
 	coherence_path = resultspath + 'coherence.pickle'
 	model1_pickle_path = resultspath + 'noseed_100iter_beta0_1.pickle'
 
