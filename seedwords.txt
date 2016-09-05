@@ -1,0 +1,16 @@
+monitorSecurity violement,mort,barricades,Force,armees,manifestation,patrol,roadblock,complain
+information retranscription,conference,presse
+monitoringArms embargo,inspection
+monitoringDDR combattants,camp,commandant,zone,90000,FCFA
+assistingDDR combattants,miliciens,jeunes,risque,reinsertion,socioeconomique
+civilianProtection protection,civils,secourir
+pkoExercise exercise,force,FPUs,police,constituees
+assistingSecuritySector formation,forme,corps,prefectoral,military,pkopolice,inquiry,mixed,patrols,policemen,gendarmes,training,workshop
+assistingMedia professionnel,medias,environnement,electoral,apaise,journalist,presse,tableronde,radio,informer,climat
+assistingElection verbaux,scrutin,presidentiel,presidentielle,legislatif,legislative,vote,election,transport,CEI,resultat,definitif,certifie,certifier,presential,commision,results,certify,certification
+meeting recontre,evaluation,delegation,recu,recevoir,autorite,contact,echange,echanger,platforme,mission,siege,meeting,evaluation,invitation,invite,authorities,officials,contact,exchange,platform,mission
+economicRelief ONUDI,developpement,UNDP,development
+qip rehabilitation,qip,quick,impact,
+health vih,sida,hospital,sensibilisation,sante,hiv,health,clinic
+humanRights save,children,droits,enfant,homme,ONG,forme,formation,human,rights,NGO
+reconcilation reconcilation,peace,paix,pardoning,forgiveness,pardon,tournoi,artistique
