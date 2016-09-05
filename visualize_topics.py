@@ -169,7 +169,7 @@ def text_to_vector(text):
 
 
 def main():
-	resultspath = '/Users/mfaizmzaki/Desktop/result/'
+	resultspath = '/result/'
 	tot_pickle_path = resultspath + '100iter_beta0_1.pickle'
 	#compare_model = resultspath + 'noseed_100iter_beta0_1.pickle'
 
