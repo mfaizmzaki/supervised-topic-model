@@ -11,10 +11,10 @@ from gensim.corpora.dictionary import Dictionary
 
 def main():
     
-    articles_path = '/Users/mfaizmzaki/Dropbox/TextAnalysisPeacekeeping/texts_corrected/*.txt'
-    stopword_path = '/Users/mfaizmzaki/Dropbox/TextAnalysisPeacekeeping/political-science/code/stopWordsFinal.txt'
-    resultspath = '/Users/mfaizmzaki/Desktop/result/'
-    location_path = '/Users/mfaizmzaki/Desktop/UCL_courses/mscproject/political-science/code/cities/locationVoterList2.txt'
+    articles_path = '/texts_corrected/*.txt'
+    stopword_path = '/stopwords.txt'
+    resultspath = '/results/'
+    location_path = '/locations.txt'
     tot_topic_vectors_path = resultspath + 'time200msc_topic_vectors_beta0_1.csv'
     tot_topic_mixtures_path = resultspath + 'time200msc_topic_mixtures_beta0_1.csv'
     tot_topic_shapes_path = resultspath + 'time200msc_topic_shapes_beta0_1.csv'
