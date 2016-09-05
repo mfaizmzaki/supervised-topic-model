@@ -11,6 +11,7 @@ This repository contains all the source codes used in UCL MSc Web Science and Bi
 5. visualize_topics.py
 6. stopwords.txt
 7. locations.txt
+8. seedwords.txt
 
 # Running the codes
 1. Ensure that the dataset is prepared. Each article from the website is in the form of a text file with the following format:
