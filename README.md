@@ -1,5 +1,4 @@
-# MSc-Thesis
-Supervised Topics Over Time model
+# Supervised Topics Over Time model
 
 This repository contains all the source codes used in UCL MSc Web Science and Big Data Analytics project : Discovering patterns of UN  peacekeeping activies in Ivory Coast using supervised topic modelling. An important note is that the source codes in this repository only deals with the modelling process. It does not include the data collection source codes. The codes will be released when there is mutual agreement between me and Ms. Hannah Smidt as my co-supervisor. However, the original data can be accessed at UN peacekeeping mission in Ivory Coast website: http://www.onuci.org/
 
